@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using CMS;
@@ -11,17 +11,18 @@ using CMS;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Heartland Business Systems")]
 [assembly: AssemblyProduct("PageBuilderContainers_MVC")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright @2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: AssemblyDiscoverable()]
+[assembly: AssemblyDiscoverable]
+
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9a1d77ac-de93-4402-86bd-637d9a81896e")]
+[assembly: Guid("6b6dd0bd-933d-4b87-af98-281bb2c81f7f")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -32,6 +33,5 @@ using CMS;
 //
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("12.0.0.0")]
-[assembly: AssemblyFileVersion("12.0.0.0")]
+[assembly: AssemblyVersion("12.29.0.1")]
+[assembly: AssemblyFileVersion("12.29.0.1")]
